@@ -40,7 +40,6 @@ class Person {
     this._lastName = lastName
   }
 }
-let person = new Person(12, 'Shahid', 'Khan')
-console.log(person)
 
+let person = new Person(12, 'Shahid', 'Khan')
 
